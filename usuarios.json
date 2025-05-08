@@ -1,0 +1,17 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "email": "admin@limonkiwi.com",
+            "password": "$2b$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi", 
+            "nombre": "Administrador",
+            "fecha_registro": "2025-05-08",
+            "ultimo_login": "2025-05-08",
+            "rol": "admin"
+        }
+    ],
+    "config": {
+        "siguiente_id": 2,
+        "ultima_actualizacion": "2025-05-08"
+    }
+}
